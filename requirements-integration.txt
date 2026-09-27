@@ -1,0 +1,2 @@
+# Optional: needed only for the microM8 MCP driver.
+mcp>=1,<2

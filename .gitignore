@@ -1,0 +1,15 @@
+.DS_Store
+.venv
+__pycache__/
+*.pyc
+.env
+.env.*
+vendor/
+*.db
+*.sqlite*
+*.dsk
+*.po
+*.2mg
+*.rom
+*.zip
+*.skill
